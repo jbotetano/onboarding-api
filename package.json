@@ -1,0 +1,31 @@
+{
+  "name": "onboarding",
+  "version": "1.0.0",
+  "description": "Big Co Onboarding API Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ch03-modeling/cool.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jbotetano/onboarding-api.git"
+  },
+  "keywords": [
+    "api",
+    "onboarding",
+    "bigco",
+    "cool",
+    "ascii",
+    "faces"
+  ],
+  "author": "Jaime",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jbotetano/onboarding-api/issues"
+  },
+  "homepage": "https://github.com/jbotetano/onboarding-api#readme",
+  "dependencies": {
+    "cool-ascii-faces": "^1.3.4"
+  }
+}
